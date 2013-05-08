@@ -1,7 +1,7 @@
 Cyphon-OSX
 ==========
 
-A DoS Cannon based on Shell
+A DoS Cannon for your iBrick
 
 Warning : This runs off an extremely LOW bandwidth. The source is only for the payload used for the DoS.
 
