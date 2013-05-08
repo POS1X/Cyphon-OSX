@@ -14,4 +14,6 @@ as currently you require multiple devices to accomplish an attack.
 
 Warning : Use this at your own risk.
 
-- Abilash Menon
+- Abilash Menon @pos1x
+- RSnake @RSnake
+- JΞSTΞR™ @th3j35t3r
